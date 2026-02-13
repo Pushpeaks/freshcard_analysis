@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+upload_to_hf.py
+.DS_Store
+backend/node_modules/
+frontend/node_modules/
+frontend/dist/
